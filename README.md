@@ -36,10 +36,10 @@
 1. javaScript/라이브러리를 이용한 메인디자인.
 ![main](https://user-images.githubusercontent.com/68357066/104839768-a4883d80-5906-11eb-9e73-da6ddb6e294b.gif)
 
-2.magicScroll을 이용.
+2. magicScroll을 이용.
 ![scroll](https://user-images.githubusercontent.com/68357066/104839994-101eda80-5908-11eb-9294-734703e049cd.gif)
 
-3.Contact페이지.
+3. Contact페이지.
 ![contact](https://user-images.githubusercontent.com/68357066/104840091-9cc99880-5908-11eb-8994-6befe721e8ed.gif)
 
 
